@@ -2,7 +2,7 @@
 install Sandboxie-Plus on windows &amp;&amp; get Registration.reg ; https://proxycap.dzurl.top 
 - version
 ````shell
- test pass : 5.36 >+  30-day tria
+ pass : 5.36 >+  30-day tria
  
 ````
 
