@@ -6,9 +6,8 @@
 ````shell
 5.37 >+  crack 30-day tria 
 
-1. Run core\Repair.bat
-2. Repair pcap537_x64.msi 
-3. restore proxycap config from c:\proxycap_backup
+1. Run core\ProxyCapRepair.bat
+2. ProxyCapRepair.bat pcap537_x64.msi 
 
 ````
 
